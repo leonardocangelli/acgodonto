@@ -1,8 +1,8 @@
 ## Landing page
 
-Site ACG Odontologia para apresentação da empresa, listagem das especialidades e convênios.
+Site AZZURE Odontologia para apresentação da empresa, listagem das especialidades e convênios.
 
-* [Site](https://www.acgodontologia.com.br/)
+* [Site](https://www.azzureodontologia.com.br/)
 
 ## Tecnologias
 
