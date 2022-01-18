@@ -11319,7 +11319,7 @@ hr.divider {
   height: 0.1rem;
   max-width: 5.25rem;
   margin: 1.5rem auto;
-  background-color: #fff;
+  background-color: #061824;
   opacity: 1;
 }
 
@@ -11468,4 +11468,16 @@ header.masthead h1, header.masthead .h1 {
 
 .text-subtitle-brand {
   font-family: 'Cinzel', serif;
+}
+
+.logo-main {
+  width: 300px;
+}
+
+.template-white {
+  background-color: #fff;
+}
+
+.darkblue {
+  color: #061824;
 }
