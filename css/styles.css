@@ -11478,6 +11478,14 @@ header.masthead h1, header.masthead .h1 {
   background-color: #fff;
 }
 
+.template-darkblue {
+  background-color: #061824;
+}
+
 .darkblue {
   color: #061824;
+}
+
+.title-white {
+  color: #fff;
 }
