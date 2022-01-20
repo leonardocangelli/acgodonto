@@ -11497,3 +11497,7 @@ header.masthead h1, header.masthead .h1 {
 .card-attr {
   margin: 10px;
 }
+
+.title-section {
+  font-family: 'Amatic SC', cursive;
+}
