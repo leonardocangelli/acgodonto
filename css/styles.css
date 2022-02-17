@@ -4550,6 +4550,7 @@ textarea.form-control-lg {
 
 .card-title {
   margin-bottom: 0.5rem;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .card-subtitle {
@@ -11499,5 +11500,24 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .title-section {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Cinzel', serif;
+}
+
+.contato-text {
+  text-align: left;
+}
+
+.contato-item {
+  font-size: 14px; 
+  color: #10386d;
+}
+
+.contato-link {
+  font-size: 14px; 
+  color: #10386d;
+  text-decoration: none;
+}
+
+.fotter-text {
+  font-size: 13px;
 }
