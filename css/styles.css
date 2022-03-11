@@ -11520,3 +11520,7 @@ header.masthead h1, header.masthead .h1 {
 .footer-text {
   font-size: 13px;
 }
+
+.carousel-item-center {
+  text-align: center;
+}
